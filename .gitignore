@@ -100,8 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
-.idea/
 myvenv/
 media/
 
 *.sqlite3
+
+.idea/
